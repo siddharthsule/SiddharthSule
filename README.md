@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @SiddharthSule
 - 👀 I’m interested in Parton Showers and Event Generators
-- 🌱 I’m currently learning Particle Physics (PhD)
-- 💞️ I’m looking to collaborate on HERWIG
-- 📫 How to reach me: siddharth.sule@postgrad.manchester.ac.uk
+- 🌱 I’m currently pursuing a PhD in Particle Physics
+- 💞️ I’m looking to collaborate on Simulation Software and HEP!
+- 📫 How to reach me: siddharth.sule@manchester.ac.uk
 
 <!---
 SiddharthSule/SiddharthSule is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
