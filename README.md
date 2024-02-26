@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SiddharthSule
+- 👋 Hi, I’m @siddharthsule
 - 👀 I’m interested in Parton Showers and Event Generators
 - 🌱 I’m currently pursuing a PhD in Particle Physics
 - 💞️ I’m looking to collaborate on Simulation Software and HEP!
